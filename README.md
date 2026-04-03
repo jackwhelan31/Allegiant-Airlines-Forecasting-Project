@@ -1,4 +1,4 @@
-Allegiant Airlines Forecasting Model
+
 This project uses Allegiant's 2024 financial report data to forecast operating performance for the years 2025 through 2030.
 The Data sheet possesses the raw operating revenue and operating expense data from the report, as well as calculated averages
 for each operating revenue and expense category. At the top the user can change values for fare, inflation, fuel cost per gallon,
