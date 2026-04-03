@@ -11,4 +11,4 @@ Aircraft fuel expenses are determined by the cost of fuel per gallon and the amo
 Special charge expenses are determined by a random number generator to reflect the volatility of the expense category.
 The Insights sheet provides the maximum and minimum values for forecasted profit and forecasted special charges, and includes two 
 line charts that display the different values for each year.
-For future developments, I would like to add more data visualizations and construct pivot tables to better understand the model.
+For future developments, I would like to add more data visualizations and construct pivot tables to gain better insights as to how the model behaves.
